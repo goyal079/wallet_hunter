@@ -1,4 +1,4 @@
-echo "# Samaj Member Directory
+# Samaj Member Directory
 
 The app is live here: [https://wallet-hunter.onrender.com](https://wallet-hunter.onrender.com)
 
